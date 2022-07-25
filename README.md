@@ -1,0 +1,1 @@
+To run this project follow this steps : 1 - npm install 2- npm start 3-Try this route : /users, /user/:id, /add/user/:nom, /del/user/:id, /set/user/:id/:nom
